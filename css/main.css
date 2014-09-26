@@ -1,0 +1,73 @@
+body{
+	font-family: '616', sans-serif;
+	background-color: #ffffff;
+	color: #3db87b;
+	font-size: 14px;
+}
+.marginTop30{
+	margin-top:30px;
+}
+.colorWhite{
+	background-color: rgb(116,207,174);
+}
+.padding20{
+	padding:20px;
+}
+p{
+	font-size: 14px;
+}
+a{
+	color: #3db87b;
+}
+a:hover,
+a:visited{
+	color: #3db840;
+	text-decoration: none;
+}
+.fontsize-l{
+	font-size:40px;
+}
+.logoImgize{
+	width:80px;
+	height:55px;
+}
+span{
+	font-family: 'Raleway', sans-serif;
+}
+.foodcafeLink{
+	font-family: 'Raleway', sans-serif;
+	font-size: 24px;
+}
+.marginleft20{
+	margin-left:20px;
+}
+.marginTop0{
+	margin-top:36px;
+}
+
+@media only screen and (min-width: 319px) and (max-width: 767px) {
+/* define mobile specific styles come here */
+.appleImg{
+	/*width:150px;*/
+	height:60px;
+}
+.googlePlayImg{
+	/*width:150px;*/
+	height:60px;
+}
+.windowsImg{
+	/*width:150px;*/
+	height:60px;
+}
+.marginTop0{
+	margin-top:10px;
+}
+.maxWidth81pimg {
+    display: block;
+    height: auto;
+    max-width: 84%;
+}
+}
+
+
+/*@media only screen and (min-width: 361px) and (max-width: 768px) { }*/
